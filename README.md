@@ -39,7 +39,7 @@ When using Visual Studio DO NOT forget to turn off (uncheck) your "Just My Code"
 
 ## Closing Thoughts 
 
-I hope you learned something using these projects and give it a like and possibly some feedback if you have anything constructive. 
+I hope you learned something using these projects. 
 
 Now get out there and make your own! 
 
