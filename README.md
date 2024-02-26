@@ -1,7 +1,7 @@
 
-# nugetMultiTargetConsumer
+# nugetMultiTargetConsumer Solution
 
-The purpose of this Solution/Repo is to complete the training from the nugetMultiTarget solution/repo by showing that each source version of the nuget package is loaded into the same or higher consumer projects without any errors.
+The purpose of this Solution/Repo is to complete the training from the [nugetMultiTarget solution/repo](https://github.com/DanDeveloping/nugetMultiTarget) by showing that each source version of the nuget package is loaded into the same or higher consumer projects without any errors.
 
 | Source Version | Consumer Project Version |
 | --- | --- | 

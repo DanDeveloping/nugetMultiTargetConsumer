@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DanDeveloping.Echo" Version="0.9.5" />
+    <PackageReference Include="DanDeveloping.Echo" Version="0.9.7" />
   </ItemGroup>
 
 </Project>
